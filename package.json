@@ -1,0 +1,16 @@
+{
+  "name": "moutai_20180610_mobi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pixi-filters": "^2.6.1",
+    "pixi.js": "^4.8.0",
+    "popmotion": "^8.2.3"
+  }
+}
